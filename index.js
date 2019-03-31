@@ -18,6 +18,10 @@ function sayHiToGrandma(string) {
   return "I can't hear you!"
 }
 
+function sayHitoGrandma(string.toUpperCase) {
+  return "YES INDEED!"
+}
+
 
 
 var uppercase = "HELLO!"
