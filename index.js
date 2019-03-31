@@ -23,6 +23,8 @@ if (string.toUpperCase === string) {
   return "YES INDEED!"
 }
 
+
+
 var uppercase = "HELLO!"
  
 uppercase.toUpperCase() === uppercase // true
