@@ -23,7 +23,7 @@ if (string.toUpperCase === string) {
   return "YES INDEED!"
 }
 
-
+if (string)
 
 var uppercase = "HELLO!"
  
